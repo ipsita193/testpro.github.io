@@ -1,0 +1,33 @@
+<ul class="d-flex credits-ul" >
+           <li class="footer-link-align"><a href="https://www.coingecko.com/en/coins/kokoswap"><img src="assets/img/coingeco.svg" class="img-fluid" alt=""></a></li>
+           <li class="footer-link-align"><a href="https://www.dextools.io/app/uniswap/pair-explorer/0x79fd3e7fe3e832c66a0c005fbc99319b5e851f04"><img src="assets/img/dextools.svg" class="img-fluid" alt=""></a></li>
+           <li class="footer-link-align"><a href="https://etherscan.io/token/0x7c3e3eae4d893d11c61e74d5187c962ba5744a3b"><img src="assets/img/ether.svg" class="img-fluid" alt=""></a></li>
+           <li class="footer-link-align"><a href="https://www.cryptocompare.com/coins/koko/influence"><img src="assets/img/compare.svg" class="img-fluid" alt=""></a></li>
+           <li class="footer-link-align"><a href="https://nomics.com/assets/koko-kokoswap"><img src="assets/img/nomics.svg" class="img-fluid" alt=""></a></li>
+           <li class="footer-link-align"><a href="https://t.me/joinchat/vWyCymZZRYpmOWU1"><img src="assets/img/tel.svg" class="img-fluid" alt=""></a></li>
+           <li class="footer-link-align"><a href="https://https://twitter.com/kokoswap"><img src="assets/img/twitter.svg" class="img-fluid" alt=""></a></li>
+           <li class="footer-link-align"><a href="https://discord.com/channels/835378958148960276/835378958148960278"><img src="assets/img/discord.svg" class="img-fluid" alt=""></a></li>
+           <li class="footer-link-align"><a href="https://medium.com/@kokoswap"><img src="assets/img/medium.svg" class="img-fluid" alt=""></a></li>
+          </ul>
+		  
+    sadad style.css line number 121 arabic change
+	{
+	.signup-mobile
+{
+   /*	background-image: url(../img/signupbg.svg);*/
+    background-position: center bottom;
+    background-size: contain;
+    background-repeat: no-repeat;
+	width: 100%;
+	height:571px;
+}
+	}
+	adisnal.style.css add these css
+	.align-ul-li-footer-arabic ul
+{
+    margin-right: 0px;
+    padding-right: 0px;
+}
+
+footer change div renking as per rtl
+
